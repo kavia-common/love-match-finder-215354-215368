@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/love-match-finder-215354-215368/valentines_matcher_frontend"
+}
